@@ -85,7 +85,7 @@ function Dropzone() {
       url: "https://api.edenai.run/v2/translation/document_translation",
       headers: {
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYjBjZWI0OGQtY2IyMC00NjNhLWFlYmYtOGJkMTE5ODNlMWQ2IiwidHlwZSI6ImFwaV90b2tlbiJ9.cWfYK-Xtis6BJ50jXV-_bGexKqhEbRvWvNJPJ2Np5tM",
+          "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNmUzNjBjYWUtYzRjZC00YzY1LWI4MTYtYzc3ZjYxOTMzY2E0IiwidHlwZSI6ImFwaV90b2tlbiJ9.pT_SzzGbU84MaFWAZaG-fGB2PJT0gTKdsMZIFOh0_bg",
       },
       data: {
         show_original_response: false,
